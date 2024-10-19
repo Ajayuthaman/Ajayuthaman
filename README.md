@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.geekvibes.agency/sites/default/files/2023-09/Banner_1.png](https://png.pngtree.com/template/20220424/ourmid/pngtree-video-game-development-minimal-infographic-web-banner-vector-image_1432541.jpg))]
+[![MasterHead](https://mmos.com/wp-content/uploads/2017/05/unity-banner.jpg)]
 <h1 align="center">Hi 👋, I'm Ajay Uthaman</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Skilme**
+- 🔭 I’m currently working at **Master N Masters**
+
+- 👯 I Have **2 Year experience in Game Dev**
 
 - 💬 Ask me about **Unity, C# , Game Development , Games**
 
@@ -15,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://linkedin.com/in/ajay-uthaman-296827253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-uthaman-296827253" height="30" width="40" /></a>
 <a href="https://instagram.com/ig.cyberyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig.cyberyt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cyberytop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyberytop" height="30" width="40" /></a>
