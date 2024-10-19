@@ -1,4 +1,4 @@
-[![MasterHead](https://www.geekvibes.agency/sites/default/files/2023-09/Banner_1.png)]
+[![MasterHead]([https://www.geekvibes.agency/sites/default/files/2023-09/Banner_1.png](https://png.pngtree.com/template/20220424/ourmid/pngtree-video-game-development-minimal-infographic-web-banner-vector-image_1432541.jpg))]
 <h1 align="center">Hi 👋, I'm Ajay Uthaman</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
