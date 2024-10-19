@@ -1,4 +1,4 @@
-[![MasterHead](https://mmos.com/wp-content/uploads/2017/05/unity-banner.jpg)]
+[![MasterHead](https://i.imgur.com/Van5g.gif)]
 <h1 align="center">Hi 👋, I'm Ajay Uthaman</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
