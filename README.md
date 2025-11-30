@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at **Master N Masters**
+- 🔭 I’m currently working at **KiXR**
 
-- 👯 I Have **2 Year experience in Game Dev**
+- 👯 I Have **3+ Year experience in Game Dev**
 
-- 💬 Ask me about **Unity, C# , Game Development , Games**
+- 💬 Ask me about **Unity, C# , VR/AR, Game Development , Games**
 
 - 📫 How to reach me **ajayuthaman001@gmail.com**
 
